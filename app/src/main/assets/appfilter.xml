@@ -7798,7 +7798,7 @@
     <item component="ComponentInfo{com.materiasudg/com.materiasudg.MainActivity}" drawable="mis_materias" />
 
     <!-- Mitch -->
-    <item component="ComponentInfo{ua.gardenapple.itchupdater/ua.gardenapple.itchupdater.ui.MainActivity}" drawable="mitch" />
+    <item component="ComponentInfo{ua.gardenapple.itchupdater/garden.appl.mitch.ui.MainActivity}" drawable="mitch" />
 
     <!-- Mixcloud -->
     <item component="ComponentInfo{com.mixcloud.player/com.mixcloud.player.activity.RootActivity}" drawable="mixcloud" />
