@@ -1,0 +1,12 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+    <polygon points="
+        24,7.546
+        43,40.454
+        5,40.454
+      "></polygon>
+    <line x1="24" y1="7.546" x2="24" y2="29.485"></line>
+    <line x1="43" y1="40.454" x2="24" y2="29.485"></line>
+    <line x1="5" y1="40.454" x2="24" y2="29.485"></line>
+  </g>
+</svg>
