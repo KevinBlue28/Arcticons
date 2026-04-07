@@ -1,145 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="12.7mm"
-   height="12.7mm"
-   viewBox="0 0 12.7 12.7"
-   version="1.1"
-   id="svg1"
-   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
-   sodipodi:docname="arcticons-aelf.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     inkscape:zoom="10.515431"
-     inkscape:cx="34.615796"
-     inkscape:cy="39.846205"
-     inkscape:window-width="1920"
-     inkscape:window-height="1014"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     showgrid="true">
-    <inkscape:page
-       x="0"
-       y="0"
-       width="12.7"
-       height="12.7"
-       id="page1"
-       margin="0"
-       bleed="0" />
-    <inkscape:grid
-       id="grid1"
-       units="px"
-       originx="0"
-       originy="0"
-       spacingx="0.26458333"
-       spacingy="0.26458333"
-       empcolor="#0099e5"
-       empopacity="0.30196078"
-       color="#0099e5"
-       opacity="0.14901961"
-       empspacing="5"
-       enabled="true"
-       visible="true" />
-  </sodipodi:namedview>
-  <defs
-     id="defs1">
-    <clipPath
-       id="SVGID_2_">
-      <rect
-         id="use1"
-         width="87.5"
-         height="40.400002"
-         x="0"
-         y="0" />
-    </clipPath>
-    <clipPath
-       id="clipPath2">
-      <rect
-         id="use2"
-         width="87.5"
-         height="40.400002"
-         x="0"
-         y="0" />
-    </clipPath>
-    <clipPath
-       id="SVGID_2_-0">
-      <rect
-         id="use1-6"
-         width="87.5"
-         height="40.400002"
-         x="0"
-         y="0" />
-    </clipPath>
-    <clipPath
-       id="clipPath2-2">
-      <rect
-         id="use2-6"
-         width="87.5"
-         height="40.400002"
-         x="0"
-         y="0" />
-    </clipPath>
-  </defs>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <g
-       id="g3"
-       transform="matrix(0.95070205,0,0,0.95070205,0.21983466,0.5946603)"
-       style="stroke-width:0.279639;stroke-dasharray:none">
-      <path
-         d="M 9.522233,10.67776 9.8103939,10.061048"
-         style="fill:none;stroke:#1a1a1a;stroke-width:0.279639;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-         id="path1" />
-      <g
-         id="g2"
-         style="stroke-width:0.279639;stroke-dasharray:none">
-        <path
-           style="fill:none;stroke:#1a1a1a;stroke-width:0.279639;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-           d="m 5.5209043,1.0449904 h 0.9423311 l 3.3232693,9.0135866 0.6167113,0.28816"
-           id="path7"
-           sodipodi:nodetypes="cccc" />
-        <path
-           style="fill:none;stroke:#1a1a1a;stroke-width:0.279639;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-           d="M 6.1367412,2.2834558 3.9395462,7.5706847"
-           id="path8"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#1a1a1a;stroke-width:0.279639;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-           d="M 7.3359898,5.5697395 7.083814,4.9052416 5.134615,4.9006584"
-           id="path9"
-           sodipodi:nodetypes="ccc" />
-        <path
-           style="fill:none;stroke:#1a1a1a;stroke-width:0.279639;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-           d="M 3.4216892,7.5706847 H 4.4105305"
-           id="path10" />
-        <path
-           style="fill:none;stroke:#1a1a1a;stroke-width:0.279639;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-           d="M 6.019986,1.9552641 6.3372756,2.8471465"
-           id="path11"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#1a1a1a;stroke-width:0.279639;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-           d="M 7.0029216,4.677857 7.3202113,5.5697395"
-           id="path11-5"
-           sodipodi:nodetypes="cc" />
-      </g>
-    </g>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.b{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <g transform="matrix(3.6035 0 0 3.6035 .77902 2.2343)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".2775">
+  <path d="m9.5222 10.678 0.28816-0.61671"/>
+  <path d="m5.5209 1.045h0.94233l3.3233 9.0136 0.61671 0.28816"/>
+  <path d="m6.1367 2.2835-2.1972 5.2872"/>
+  <path d="m7.336 5.5697-0.25218-0.6645-1.9492-0.0045832"/>
+  <path d="m3.4217 7.5707h0.98884"/>
+  <path d="m6.02 1.9553 0.31729 0.89188"/>
+  <path d="m7.0029 4.6779 0.31729 0.89188"/>
+ </g>
 </svg>
