@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   version="1.1"
+   viewBox="0 0 48 48"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><style
+       id="style1">
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style></defs><path
+     style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 5.5000001,35.598581 15.437502,12.401482 20.19992,20.540896"
+     id="path1" /><path
+     style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="m 16.009201,23.916039 2.728887,4.177863 7.002424,-15.69242 h 7.543053 c 6.447004,-0.02205 9.221673,5.64136 9.216427,11.772448 -0.0052,6.131089 -2.810928,11.403687 -8.315379,11.424651 H 27.413886 V 21.027638"
+     id="path2" /><path
+     style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     d="M 30.992332,17.159247 V 30.982301"
+     id="path3" /></svg>
