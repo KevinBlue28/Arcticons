@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="a" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style>.b{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
- </defs>
- <g transform="matrix(3.6035 0 0 3.6035 .77902 2.2343)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".2775">
-  <path d="m9.5222 10.678 0.28816-0.61671"/>
-  <path d="m5.5209 1.045h0.94233l3.3233 9.0136 0.61671 0.28816"/>
-  <path d="m6.1367 2.2835-2.1972 5.2872"/>
-  <path d="m7.336 5.5697-0.25218-0.6645-1.9492-0.0045832"/>
-  <path d="m3.4217 7.5707h0.98884"/>
-  <path d="m6.02 1.9553 0.31729 0.89188"/>
-  <path d="m7.0029 4.6779 0.31729 0.89188"/>
- </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg id="b" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><defs><style>.d{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:1px;}</style></defs><path class="d" d="M34.5657,43.5l1.1666-2.4968"/><path class="d" d="M18.3661,4.5h3.8151l13.4547,36.4923,2.4968,1.1666"/><path class="d" d="M20.8592,9.5142l-8.8955,21.4057"/><path class="d" d="M25.7147,22.8186l-1.021-2.6903-7.8915-.0186"/><path class="d" d="M9.8673,30.9198h4.0034"/><path class="d" d="M20.3868,8.1854l1.2846,3.6108"/><path class="d" d="M24.3661,19.2081l1.2846,3.6109"/></svg>
